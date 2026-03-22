@@ -94,7 +94,7 @@ project_13_transit_ridership_optimizer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/olag-portfolio/calgary-transit-optimizer.git
+git clone https://github.com/guydev42/calgary-transit-optimizer.git
 cd calgary-transit-optimizer
 
 # Install dependencies
@@ -153,5 +153,5 @@ Data provided by the [City of Calgary Open Data Portal](https://data.calgary.ca/
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/olag-portfolio">Ola G</a>
+  Built by <a href="https://github.com/guydev42">Ola K.</a>
 </p>
